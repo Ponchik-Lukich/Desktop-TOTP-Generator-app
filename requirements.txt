@@ -1,0 +1,3 @@
+keyring
+PyQt5
+python-dotenv
